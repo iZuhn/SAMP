@@ -1,5 +1,5 @@
 # SAMP
-Custom installation of GTA:SA + SAMP (0.3.7 R5)
+// Custom installation of GTA:SA + SAMP (0.3.7 R5)
 
 
 **GTA SAN ANDREAS .ISO (BASE GAME)**
